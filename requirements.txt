@@ -1,0 +1,9 @@
+astor==0.8.1
+beautifulsoup4==4.11.1
+pandas==1.4.4
+matplotlib==3.5.2
+matplotlib-inline==0.1.6
+numpy==1.21.5
+pytz==2022.1
+skyfield==1.46
+tzwhere==3.0.3
